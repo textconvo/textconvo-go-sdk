@@ -135,6 +135,12 @@ textconvo-go-sdk/
 
 See [coverage](https://github.com/textconvo/textconvo-api-examples/blob/main/docs/COVERAGE.md) for what the API supports today.
 
+## See it live
+
+Submit the [contact form](https://textconvo.ai/contact-us) and you get a direct line to **Ria**, the TextConvo AI orchestrator &mdash; call her for a live voice demo, or text her and watch the SMS AI reply in real time. A human follows up within one business day, and the same form is how API credentials, a source key, and a webhook secret are issued.
+
+Handed a TextConvo QR code at an event or in a demo? Scanning it opens the same conversation. The form is simply the path that works for everyone.
+
 ## Feedback wanted, before the code exists
 
 Functional options or a config struct? `any` or generics for custom fields? Middleware or a plain verify function for webhooks? [Open an issue](https://github.com/textconvo/textconvo-go-sdk/issues/new/choose) — opinions now are worth more than pull requests later.
